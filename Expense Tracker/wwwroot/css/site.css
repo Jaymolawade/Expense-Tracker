@@ -34,15 +34,4 @@ body {
         width: 100%;
     }
 
-.custom-rbt-group label.e-btn{
-    box-shadow:none !important;
-    border: 1px solid #fff;
-    background-color:rgb(44, 43, 43);
-    color:#fff;
-}
-e-btn-group.custom-rbt-group input:checked + label.e-btn{
-    background-color:#fff;
-    color:#212b36;
-    border: 1px solid #fff;
-}
 
